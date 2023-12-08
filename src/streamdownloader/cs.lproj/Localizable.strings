@@ -1,0 +1,198 @@
+// placeholder
+"placeholderVideoUrl" = "Vložit YouTube adresu(y)";
+
+// buttons
+"button_ok" = "Ok";
+"button_cancel" = "Zrušit";
+"button_yes" = "Ano";
+"button_no" = "Ne";
+"button_open" = "Otevřít";
+"button_dont_ask" = "Znovu se nedotazovat";
+"button_dont_show" = "Znovu nezobrazovat";
+
+"btnDownloadTitle" = "Stáhnout";
+"btnBuyNowTitle" = "Koupit Streamup";
+"btnActivateTitle" = "Aktivovat Streamup";
+"btnLaterTitle" = "Později";
+
+// buttons of alert about clean download list
+"btnClearAllTitle" = "Odebrat vše";
+"btnClearQueuedTitle" = "Vyčistit frontu";
+"btnClearSavedTitle" = "Odebrat dokončené";
+
+// --- Differnt windows ---
+// welcome Window
+"welcomeWindowTitle" = "Fantastická funkce Streamup";
+"lblEasyDownloadHead" = "Stahování je snadné";
+"lblEasyDownloadText" = "Stačí zkopírovat video odkaz z webového prohlížeče a vložit jej do Streamup. Nejsou zapotřebí žádné další skripty ani zásuvné moduly prohlížeče.";
+"lblStartPauseHead" = "Zastavit a pokračovat ve stahování";
+"lblStartPauseText" = "Nezáleží na tom, zda jste zastavili stahování, nebo se přerušilo, pokračování z přesně téhož místa je vždy snadné.";
+"lblTypeResolutionHead" = "Typy souborů a rozlišení";
+"lblTypeResolutionText" = "Streamup umí stáhnout videa v různých formátech a rozlišeních, dokonce i v HD a Ultra HD.";
+"lblExtractAudioHead" = "Videa z YouTube do MP3 souborů";
+"lblExtractAudioText" = "Máte-li zájem o skladbu, nemusíte stahovat celé video z YouTube. Streamup  dokáže extrahovat soubory MP3 z videí na YouTube, takže si je můžete užít ve svém MP3 přehrávači.";
+"lblPlaylistChannelHead" = "Seznamy skladem, kanály a videa na YouTube";
+"lblPlaylistChannelText" = "Stahujte kompletní kanály a seznamy skladem pomocí jednoho odkazu. Přidávejte spoustu odkazů k různým videím na Streamup a stáhněte si je najednou.";
+
+// preferences Window
+"preferencesWindowTitle" = "Předvolby Streamup";
+"lblChooseFolderText" = "Vybrat složku pro stahování";
+"tooltipChooseFolder" = "Vybrat jinou složku";
+"checkboxAlwaysAskTitle" = "Vždy se ptát, kam uložit video (pouze pro 1 video)";
+"btnUncheckAllTitle" = "Odvolat všechny volby \"Znovu se nedotazovat\"";
+"checkboxSendStatisticsTitle" = "Zasílat anonymní statistiky využití do Eltimy";
+
+// activation window
+"activationWindowTitle" = "Aktivace Streamup";
+"lblEnterActivationCodeText" = "Vložit aktivační kód:";
+"lblActivationInfoText" = "Po zakoupení Streamup, by měl být aktivační kód v emailu. Je třeba ho zadat zde.";
+"btnLostCodeTitle" = "Ztracený aktivační kód?";
+
+// about window
+"aboutWindowTitle" = "O aplikaci";
+"lblVersionText" = "verze %@.%@";
+"lblLicenseTypeText" = "Druh licence: ";
+"lblRegisteredText" = "Registrováno: ";
+"lblStreamupSoftwareText" = "© %d Streamup Team. All rights reserved";
+"aboutTrialVersion" = "Zkušební verze";
+"aboutUnknownName" = "neznámé";
+
+// window of process parsing of playlist
+"parcingPlaylistWindowTitle" = "Zpracovávání playlistu";
+"parcingChannelWindowTitle" = "Parsování kanálu";
+"parcingInProcess" = "Probíhá zpracovávání...";
+"parcingProcessedLinks" = "Zpracováno %d z %d odkazů";
+
+// DemoReminder window
+"demoreminderWindowTitle" = "Demo vypršelo";
+"demoreminderCountFreeInfo" = "Bylo použito %d stažení zdarma s demem Streamup.";
+"demoreminderActivationMessage" = "Pro nadále stáhování YouTube videí, extrahování MP3 stop a použávání dalších vlastností, je nutné aktivovat Streamup";
+
+// OfferReminder window
+"offerreminderWindowTitle" = "Přepnuto do režimu Demo";
+"offerreminderCountFreeInfo" = "K dispozici je %d z %d volných stažení.";
+"offerreminderActivationMessage" = "Streamup se vrátil do režimu DEMO, jelikož byla vyžádána velká aktualizace. Pro uživatele PRO verze 2.x je k dispozici s 50% slevou.\n\nPro další stahování YouTube videí, extrahování MP3 stop a dalších skvělých vlastností je třeba aktivovat Streamup PRO.";
+
+// buttons for windows of reminders
+"btnReminderKeepFreeTitle" = "Ponechat verzi zdarma";
+"btnReminderActivateTitle" = "Aktivovat";
+"btnReminderBuyNowTitle" = "Koupit";
+
+// --- Differnt alerts ---
+// activation window
+"alertWrongActivationMessage" = "Aktivace nemůže být dokončena";
+"alertWrongActivationInfo" = "Je třeba se ujistit, že v zadání nejsou překlepy. Doporučeno je použít kopírovat/vložit pro minimalizaci chyb.";
+"alertSuccessfullActivationMessage" = "Aktivace úspěšně dokončena";
+"alertSuccessfullActivationInfo" = "Děkujeme za aktivaci Streamup. Nyní je možné využívat všechny vlastnosti aplikace.";
+
+// reactivation
+"alertReactivateMessage" = "Aktivace selhala";
+"alertReactivateInfo" = "Je čas pro požadovanou re-aktivaci Streamup. Automatická re-aktivace bohužel selhala, a do doby než bude úspěšně dokončena, došlo k přepnutí na verzi zdarma. Je třeba zkontrolovat připojení k internetu a také správný datum a čas, případně firewall.";
+
+// terminate app
+"alertTerminateMessage" = "Ukončit Streamup";
+"alertTerminateDownloadInfo" = "Právě je aktivních %d stahování a %d pozastavených.\nBudou obnoveny při příštím spuštění Streamup.";
+"alertTerminateParsingInfo" = "Probíhá zpracovávání playlistu kanálu. Opravdu se má aplikace ukončit a tento proces přerušit?";
+
+//error 404
+"alertError404Message" = "Toto video nemůže být aktuálně staženo";
+"alertError404Info" = "Požadovaný zdroj %@ nebyl nalezen, ale může se objevit v budoucnu. Je třeba zkusit to znovu.";
+
+// alert if the video is the part of playlist
+"alertVideoPartPlaylistMessage" = "Toto video je součást playlistu";
+"alertVideoPartPlaylistInfo" = "Má se stáhnout pouze video, nebo celý playlist?";
+"btnRememberChoiceTitle" = "Zapamatovat volbu";
+"btnDownloadVideoTitle" = "Stáhnout video";
+"btnDownloadPlaylistTitle" = "Stáhnout playlist";
+
+// video already downloading
+"alertVideoIsLoadingMessage" = "Video stejného typu a rozlišení se právě stahuje, nebo je ve frontě stahování";
+"alertVideoIsLoadingInfo" = "Pokud se má stejné video stáhnout znovu, je třeba počkat na dokončení aktivního stahování.";
+
+// canceling downloads
+"alertCancelDonloadMessage" = "Zrušit stahování videa \"%@\"?";
+"alertCancelDowloadInfo" = "Po zrušení stahování již nebude možné ho obnovit, ale spustit kompletně znovu.";
+
+// file(s) does not exists
+"alertNotExistInFinderMessage" = "Soubor neexistuje";
+"alertNotExistInFinderInfo" = "Pravděpodobně byl odstraněn nebo přesunut do jiné složky. Odstranit ho také ze sezanmu stažených?";
+
+"alertNotExistMessage" = "Soubor(y) neexistuje(í)";
+"alertNotExistInfo" = "Pravděpodobně byl odstraněn nebo přesunut do jiné složky.";
+
+// connection failed
+"alertInfoFailConnection" = "Stahování z jednoho nebo více zdrojů nemůže být dokončeno.";
+"alertInfoConnectionLost" = "Má se znovu spustit přerušené stahování?";
+
+// free space on the disk
+"alertFreeSpaceMessage" = "Na disku není dost místa";
+"alertFreeSpaceInfo" = "Na disku není dostatek místa pro nová videa. Je možné zkusit znovu po uvolnění místa.";
+
+// device not configured
+"alertNoDeviceMessage" = "Zařízení nelze najít";
+"alertNoDeviceInfo" = "Je třeba provést kontrolu, zda je zařázení pro stahování videí správně připojeno a zkusit znovu.";
+
+// path not exists
+"alertPathNotExistsMessage" = "Na vybranou cestu nelze uložit";
+"alertPathNotExistsInfo" = "Je třeba zkontrolovat, zda cesta existuje. To je možné provést v předvoblách Streamup.";
+
+// clear download list
+"alertClearDownloadListMessage" = "Vyčistit seznam stažených";
+"alertClearDownloadListInfo" = "Opravdu odstranit stažené soubory ze seznamu?";
+"alertClearDownloadListOneActiveInfo" = "Právě je aktivní %ld stahování. Po vyčištění seznamu již nebude možné jej obnovit.";
+"alertClearDownloadListFewActiveInfo" = "Právě je aktivních %ld stahování. Po vyčištění seznamu již nebude možné je obnovit.";
+
+// not available links
+"alertMessageLinksNotAvailable" = "Některé odkazy nejsou k dispozici";
+"alertInfoLinksNotAvailable" = "Odkazy byly zpracovány, ale některé z nich nemůžou být staženy z různých důvodů. Tyto odkazy byly přeskočeny.";
+"alertInfoLinksNotAvailable2" = "Odkazy byly zpracovány, ale některé z nich nemůžou být staženy z různých důvodů. Tyto odkazy byly přeskočeny. Přeskočeno %d z %d odkazů.";
+
+// login in Youtube
+"alertLoginYoutubeMessage" = "Přihlásit se na YouTube";
+"alertLoginYoutubeInfo" = "Pro možnost stahování videí, která jsou omezena podle věku, nebo soukromá, je třeba se přihlásit na YouTube.";
+"alertLoginYoutubeExpiredInfo" = "YouTube přihlášení expirovalo. Je nutné se odhlásit a znovu se přihlásit.";
+"alertLinksNotAvailableInfo3" = "Odkazy byly zpracovaný, ale některá videa nemohla být stažena. Streamup musel přeskočit %d z %d odkazů. Pro zlepšení procesu stažení je třeba se přihlásit na YouTube.";
+"btnLoginTitle" = "Přihlásit se";
+"btnLogoutTitle" = "Odhlásit se";
+
+// Other
+"lblInvitationText" = "Po vložení URL kliknout";
+
+"lblAvailableDowloadsText" = "Zbývá %d volných stažení";
+
+// current state for items
+"txtStateSuspended" = "Stahování pozastaveno";
+"txtStateSuspendedConvert" = "Konverze pozastavena";
+"txtStateResumedAndQueued" = "Obnoveno a zařazeno do fronty";
+"txtStateErrorWhenConverting" = "Chyba při konverzi";
+"txtStateQueued" = "Přidáno do fronty stahování...";
+"txtStateSoundExtracting" = "Extrahování zvuku. Probíhá ( %.1f %% )...";
+"txtStateAddingCover" = "Přidávání obrázků. Probíhá ( %.1f %% )...";
+"txtStateVideoConverted" = "Konverze videa. Probíhá ( %.1f %% )...";
+"txtStateUpdateLinks" = "Aktualizace odkazu pro stažení";
+"txtStateSizeCalculation" = "Získávání velikosti souboru...";
+
+// status bar text
+"txtActiveDowloads" = "Aktivní: %d";
+"txtSuspendDowloads" = "Pozastavené: %d";
+"txtActiveSuspendDowloads" = "Aktivní: %d, pozastavené: %d";
+"txtActiveQueuedDowloads" = "Aktivní: %d, čeká: %d";
+"txtSuspendedQueuedDowloads" = "Pozastavené %d, čeká %d";
+"txtActiveSuspendQueuedDowloads" = "Aktivní: %d, pozastavené: %d, čeká: %d";
+
+// tooltips and context menu (TCM)
+"tcmSuspendDownloadText" = "Pozastavit stahování";
+"tcmResumeDownloadText" = "Obnovit stahování";
+"tcmShowInFinderText" = "Zobrazit ve Finderu";
+"tcmCancelDownloadText" = "Zrušit stahování";
+"tcmRemoveFromListText" = "Odstranit ze seznamu";
+"tcmOpenPageOriginText" = "Otevřít původní stránku";
+
+// button format/resolution
+"itemMaxQuality" = "nejlepší";
+
+//Alert about copyright compliance of third party
+"btnDeclineTitle" = "Decline";
+"btnAgreeTitle" = "I agree";
+"alertMessageCopyrightCompliance" = "A very important notice";
+"alertInfoCopyrightCompliance" = "Streamup is the app to back up your own media content for offline viewing and storing. If you are planning to back up someone else's content, please, be aware, as a user, you are completely responsible for any potential copyright issues.";

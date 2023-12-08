@@ -1,0 +1,385 @@
+/*
+ * Loco ios export: iOS Localizable.strings
+ * Project: Streamup
+ * Release: Working copy
+ * Locale: ko, Korean
+ * Tagged: Localizable
+ * Exported by: Alina
+ * Exported at: Fri, 13 Jan 2017 09:41:28 +0000
+ */
+
+/* loco:5798c4ed14d72520138b456c */
+"button_ok" = "확인";
+
+/* loco:5798c4ed14d72527118b457e */
+"placeholderVideoUrl" = "YouTube URL을 붙여넣기 하세요";
+
+/* loco:5798c4ee14d72502158b4567 */
+"button_no" = "아니오";
+
+/* loco:5798c4ee14d7250e138b456f */
+"button_dont_ask" = "다시 묻지 않기";
+
+/* loco:5798c4ee14d72520138b456e */
+"btnDownloadTitle" = "다운로드";
+
+/* loco:5798c4ee14d72527118b4580 */
+"button_dont_show" = "다시 보이지 않기";
+
+/* loco:5798c4ee14d7254c118b4580 */
+"button_yes" = "예";
+
+/* loco:5798c4ee14d725b8128b4571 */
+"button_cancel" = "취소";
+
+/* loco:5798c4ee14d725f8128b4570 */
+"button_open" = "열기";
+
+/* loco:5798c4ef14d72502158b4569 */
+"btnLaterTitle" = "나중에";
+
+/* loco:5798c4ef14d7250e138b4571 */
+"btnClearAllTitle" = "모두 지우기";
+
+/* loco:5798c4ef14d7254b118b4576 */
+"btnActivateTitle" = "Streamup 활성화";
+
+/* loco:5798c4ef14d7254c118b4582 */
+"btnBuyNowTitle" = "Streamup 구매";
+
+/* loco:5798c4f014d725b8128b4574 */
+"btnClearSavedTitle" = "완료된 파일 지우기";
+
+// welcome Window
+"welcomeWindowTitle" = "Streamup의 멋진 기능";
+"lblEasyDownloadHead" = "손쉬운 다운로드";
+"lblEasyDownloadText" = "웹 브라우저에서 비디오 링크를 복사해 Streamup에 붙여넣으세요. 스크립트나 브라우저 플러그인을 필요로 하지 않습니다.";
+"lblStartPauseHead" = "일시 정지 및 다운로드 재시작";
+"lblStartPauseText" = "다운로드를 일시 정지했거나 혹은 다운로드가 중간에 멈췄을 경우에도 손쉽게 멈춘 부분부터 다운로드를 다시 시작할 수 있습니다.";
+"lblTypeResolutionHead" = "파일 형식 및 해상도";
+"lblTypeResolutionText" = "Streamup는 HD와 Ultra HD를 포함한 다양한 포맷과 해상도의 비디오를 다운로드 할 수 있습니다.";
+"lblExtractAudioHead" = "YouTube 비디오 MP3 파일로 변환";
+"lblExtractAudioText" = "사운드트랙만을 원할 경우, YouTube 비디오를 다운로드 받으실 필요가 없습니다. Streamup는 YouTube 비디오에서 MP3 파일을 추출해 낼 수 있습니다.";
+"lblPlaylistChannelHead" = "YouTube 재생목록, 채널 그리고 비디오";
+"lblPlaylistChannelText" = "링크 하나로 채널의 모든 비디오 혹은 재생목록을 다운로드하세요. Streamup에 여러 종류의 비디오 링크를 추가해 놓으면 한꺼번에 다운로드 합니다.";
+
+/* loco:5798c4f014d725f8128b4573 */
+"preferencesWindowTitle" = "Streamup 기본 설정";
+
+/* loco:5798c4f214d7254c118b4586 */
+"lblChooseFolderText" = "다운로드 폴더 선택";
+
+/* loco:5798c4f314d72520138b4572 */
+"btnClearQueuedTitle" = "대기열 지우기";
+
+/* loco:5798c4f314d72576138b456b */
+"tooltipChooseFolder" = "다른 폴더 선택";
+
+/* loco:5798c4f414d7254c128b4576 */
+"checkboxAlwaysAskTitle" = "비디오 저장 위치 항상 확인하기 (비디오 1개만 유효)";
+
+/* loco:5798c4f514d72502158b456e */
+"checkboxSendStatisticsTitle" = "Eltima에 익명의 사용 정보 보내기";
+
+/* loco:5798c4f514d72576138b456d */
+"activationWindowTitle" = "Streamup 활성화";
+
+/* loco:5798c4f514d725f8128b4576 */
+"btnUncheckAllTitle" = "\\\"다시 묻지 않기\\\" 상자 모두 해제";
+
+/* loco:5798c4f614d72502158b4570 */
+"lblActivationInfoText" = "Streamup를 구매하셨다면, 활성화 코드가 이메일로 전송됩니다. 여기에 입력하세요.";
+
+/* loco:5798c4f614d7254c118b4588 */
+"lblEnterActivationCodeText" = "활성화 코드를 입력하세요:";
+
+/* loco:5798c4f614d7254c128b4578 */
+"btnLostCodeTitle" = "활성화 코드를 잊어버리셨나요?";
+
+/* loco:5798c4f714d72502158b4572 */
+"lblRegisteredText" = "등록자:";
+
+/* loco:5798c4f714d7254c118b458a */
+"aboutWindowTitle" = "Streamup 정보";
+
+/* loco:5798c4f714d7254c128b457a */
+"lblEltimaSoftwareText" = "© %d Eltima Software. All rights reserved";
+
+/* loco:5798c4f714d72565158b4568 */
+"lblVersionText" = "버전 %@.%@";
+
+/* loco:5798c4f714d725f8128b4578 */
+"lblLicenseTypeText" = "라이선스 종류:";
+
+/* loco:5798c4f814d7250e138b4576 */
+"aboutTrialVersion" = "체험판";
+
+/* loco:5798c4f814d72520138b4575 */
+"aboutUnknownName" = "알 수 없음";
+
+/* loco:5798c4f814d72565158b456a */
+"parcingChannelWindowTitle" = "채널 분석";
+
+/* loco:5798c4f814d7257a158b4567 */
+"parcingPlaylistWindowTitle" = "재생 목록 분석";
+
+/* loco:5798c4f914d7250e138b4578 */
+"parcingProcessedLinks" = "%d개의 (%d 중에서) 링크를 처리했습니다";
+
+/* loco:5798c4fa14d72557158b456b */
+"demoreminderWindowTitle" = "데모 만료됨";
+
+/* loco:5798c4fb14d7254c128b457d */
+"demoreminderCountFreeInfo" = "%d개의 무료 다운로드를 사용하셨습니다.";
+
+/* loco:5798c4fc14d72565158b456c */
+"parcingInProcess" = "분석 진행 중...";
+
+/* loco:5798c4fd14d7250e138b457b */
+"demoreminderActivationMessage" = "YouTube 비디오 다운로드, MP3 추출를 비롯한 다른 기능을 사용하시려면 Streamup를 활성화하세요";
+
+/* loco:5798c4fd14d72520138b4579 */
+"offerreminderWindowTitle" = "데모 모드로 되돌아갔습니다";
+
+/* loco:5798c4fe14d72502158b4576 */
+"offerreminderCountFreeInfo" = "%d개(최대 %d 중에서)의 다운로드가 사용 가능합니다.";
+
+/* loco:5798c4ff14d7254c128b457f */
+"offerreminderActivationMessage" = "주요 업데이트를 선택하셨기 때문에 Streamup가 데모 버전으로 돌아갔습니다. PRO 버전 2.x의 유저로서 50%가격에 업그레이드 하실 수 있습니다. \\n\\nYouTube 비디오 다운로드, MP3 트랙 추출을 비롯한 다른 기능들을 계속해서 사용하시려면 Streamup PRO를 활성화하세요.";
+
+/* loco:5798c4ff14d72565158b456e */
+"btnReminderKeepFreeTitle" = "무료 버전으로 사용하기";
+
+/* loco:5798c4ff14d725b8128b4579 */
+"btnReminderActivateTitle" = "활성화";
+
+/* loco:5798c50014d72502158b4578 */
+"alertWrongActivationMessage" = "활성화가 완료되지 못했습니다";
+
+/* loco:5798c50014d7250e138b457e */
+"alertWrongActivationInfo" = "활성화 코드를 제대로 입력했는지 확인해주세요. 실수를 피하고자 활성화 코드를 복사 후 붙여넣기를 하기를 권장해 드립니다.";
+
+/* loco:5798c50014d72565158b4570 */
+"alertSuccessfullActivationMessage" = "활성화 성공";
+
+/* loco:5798c50014d7257a158b456c */
+"btnReminderBuyNowTitle" = "지금 구매";
+
+/* loco:5798c50114d72502158b457a */
+"alertReactivateInfo" = "Streamup 라이선스를 재활성화해야 합니다. 안타깝게도, 자동 재활성화에 실패하여 재활성화가 이루어질 때까지 소프트웨어가 무료 버전으로 작동합니다. 인터넷이 정상적으로 연결되어있는지, 시간과 날짜가 제대로 설정되어 있는지 그리고 방어벽이 Streamup 활성화 서버에 대한 접근을 방해하고 있는지 확인해주시기 바랍니다.";
+
+/* loco:5798c50114d7254c128b4582 */
+"alertTerminateMessage" = "Streamup 종료";
+
+/* loco:5798c50114d72565158b4572 */
+"alertTerminateDownloadInfo" = "%d개의 다운로드가 진행 중이며 %d개의 다운로드가 일시 정지되어 있습니다. \\n다음 Streamup 실행시 모두 재시작됩니다.";
+
+/* loco:5798c50114d72576138b4572 */
+"alertTerminateParsingInfo" = "재생 목록 혹은 채널을 분석 중입니다. 종료하고 중단하시겠습니까?";
+
+/* loco:5798c50114d725b8128b457b */
+"alertSuccessfullActivationInfo" = "Streamup를 활성화해주셔서 감사합니다. 이제부터 모든 기능을 사용하실 수 있습니다.";
+
+/* loco:5798c50114d725f8128b457e */
+"alertReactivateMessage" = "활성화 실패";
+
+/* loco:5798c50214d72557158b456e */
+"alertError404Message" = "지금은 비디오를 다운로드할 수 없습니다";
+
+/* loco:5798c50214d72565158b4574 */
+"alertVideoPartPlaylistMessage" = "이 비디오는 재생 목록의 일부분입니다";
+
+/* loco:5798c50214d7257a158b456f */
+"alertError404Info" = "요청하신 자료 %@이(가) 발견되지 않았습니다, 잠시 후 다시 시도해주세요.";
+
+/* loco:5798c50314d725b8128b458e */
+"alertVideoPartPlaylistInfo" = "재생 목록 전체 혹은 비디오만 다운로드하시겠어요?";
+
+/* loco:5798c50514d72502158b457c */
+"btnRememberChoiceTitle" = "내 선택 사항 기억하기";
+
+/* loco:5798c50514d7257a158b4572 */
+"btnDownloadVideoTitle" = "비디오 다운로드";
+
+/* loco:5798c50614d72502158b457e */
+"btnDownloadPlaylistTitle" = "재생 목록 다운로드";
+
+/* loco:5798c50714d72557158b4571 */
+"alertCancelDonloadMessage" = "비디오 \\\"%@\\\"의 다운로드를 취소하시겠어요?";
+
+/* loco:5798c50714d72576138b4577 */
+"alertVideoIsLoadingInfo" = "같은 비디오를 다시 다운로드하시려면, 지금의 다운로드가 끝날 때까지 기다려주세요.";
+
+/* loco:5798c50714d725f8128b4581 */
+"alertVideoIsLoadingMessage" = "같은 종류와 해상도의 비디오가 현재 다운로드 중이거나 대기열에 있습니다";
+
+/* loco:5798c50814d72520138b457e */
+"alertNotExistMessage" = "파일이 존재하지 않습니다";
+
+/* loco:5798c50814d7254c128b4586 */
+"alertNotExistInFinderMessage" = "파일이 존재하지 않습니다";
+
+/* loco:5798c50814d72565158b4577 */
+"alertCancelDowloadInfo" = "이 다운로드를 취소하면 재시작할 수 없으며 처음부터 다시 다운로드해야 합니다.";
+
+/* loco:5798c50814d7257a158b4575 */
+"alertNotExistInFinderInfo" = "컴퓨터에서 삭제했거나 다른 폴더로 이동했을 수 있습니다. 다운로드 목록에서 지우시겠습니까?";
+
+/* loco:5798c50814d725b8128b4592 */
+"alertNotExistInfo" = "컴퓨터에서 삭제했거나 다른 폴더로 이동했을 수 있습니다.";
+
+/* loco:5798c50914d72502158b4581 */
+"alertInfoFailConnection" = "1개 혹은 그 이상의 자료를 다운로드할 수 없습니다.";
+
+/* loco:5798c50914d72520138b4580 */
+"alertFreeSpaceInfo" = "새로운 비디오를 저장할 디스크 공간이 부족합니다. 공간을 확보 후 다시 시도해주세요.";
+
+/* loco:5798c50914d7254c128b4588 */
+"alertInfoConnectionLost" = "중단된 다운로드를 재시작하시겠습니까?";
+
+/* loco:5798c50914d72576138b457a */
+"alertNoDeviceMessage" = "기기를 찾을 수 없습니다";
+
+/* loco:5798c50914d7257a158b4577 */
+"alertFreeSpaceMessage" = "디스크 공간이 부족합니다.";
+
+/* loco:5798c50a14d72557158b4574 */
+"alertPathNotExistsMessage" = "지정한 경로에 저장할 수 없습니다";
+
+/* loco:5798c50a14d72565158b4579 */
+"alertNoDeviceInfo" = "비디오를 저장하고자 하는 기기가 제대로 연결되어 있는지 확인해주신 후 다시 시도해주세요.";
+
+/* loco:5798c50a14d72576138b457c */
+"alertClearDownloadListMessage" = "다운로드 목록 지우기";
+
+/* loco:5798c50a14d7257a158b4579 */
+"alertPathNotExistsInfo" = "경로가 존재하는지 확인해주세요. Streamup 기본 설정에서 경로가 제대로 지정되었는지 확인해주세요.";
+
+/* loco:5798c50c14d72502158b4584 */
+"alertClearDownloadListInfo" = "정말로 다운로드한 파일을 목록에서 지우시겠어요?";
+
+/* loco:5798c50d14d7254c128b458b */
+"alertClearDownloadListOneActiveInfo" = "%ld개의 다운로드가 진행 중입니다. 목록을 지우면 재시작할 수 없습니다.";
+
+/* loco:5798c50e14d72565158b457c */
+"alertClearDownloadListFewActiveInfo" = "%ld개의 다운로드가 진행 중입니다. 목록을 지우면 재시작할 수 없습니다.";
+
+/* loco:5798c50f14d7254c128b458d */
+"alertMessageLinksNotAvailable" = "몇 개의 링크가 유효하지 않습니다";
+
+/* loco:5798c50f14d7257a158b457c */
+"alertInfoLinksNotAvailable" = "링크를 분석했으나, 여러가지 이유로 몇 개의 비디오를 다운로드할 수 없었습니다. 다음과 같은 링크를 건너뛰었습니다.";
+
+/* loco:5798c51014d72520138b4584 */
+"alertInfoLinksNotAvailable2" = "링크를 분석했으나, 여러가지 이유로 몇 개의 비디오를 다운로드할 수 없었습니다. 다음과 같은 링크를 건너뛰었습니다. %d(총 %d개 중에서) 링크 건너뜀.";
+
+/* loco:5798c51014d72557158b4577 */
+"alertLoginYoutubeMessage" = "YouTube 계정에 로그인";
+
+/* loco:5798c51114d72502158b4588 */
+"alertLoginYoutubeInfo" = "연령 제한이 있는 비디오를 다운로드하려면 YouTube 계정에 로그인해야 합니다.";
+
+/* loco:5798c51114d7250e138b4585 */
+"alertLoginYoutubeExpiredInfo" = "YouTube 세션이 만료되었습니다. 로그아웃 후 다시 로그인하세요.";
+
+/* loco:5798c51114d72520138b4586 */
+"alertLinksNotAvailableInfo3" = "링크를 분석했으나, 여러가지 이유로 몇 개의 비디오를 다운로드할 수 없었습니다. %d개(총 %d개 중에서)의 링크를 건너뛰었습니다. 다운로드 분석 과정을 개선하려면 YouTube 계정에 로그인하세요.";
+
+/* loco:5798c51114d72565158b457e */
+"btnLoginTitle" = "로그인";
+
+/* loco:5798c51214d72502158b458a */
+"btnLogoutTitle" = "로그아웃";
+
+/* loco:5798c51214d7250e138b4587 */
+"txtStateSuspended" = "다운로드 일시 정지됨";
+
+/* loco:5798c51214d72520138b4588 */
+"txtStateSuspendedConvert" = "변환 일시 정지됨";
+
+/* loco:5798c51214d7254c128b458f */
+"lblAvailableDowloadsText" = "%d개의 무료 다운로드가 남았습니다";
+
+/* loco:5798c51214d72565158b4580 */
+"txtStateResumedAndQueued" = "재시작되어 대기열에 추가됨";
+
+/* loco:5798c51214d725b8128b4599 */
+"lblInvitationText" = "URL 입력 후 클릭";
+
+/* loco:5798c51314d72502158b458c */
+"txtStateErrorWhenConverting" = "변환 중 오류 발생";
+
+/* loco:5798c51314d7254c128b4591 */
+"txtStateQueued" = "다운로드 대기 중입니다...";
+
+/* loco:5798c51414d72565158b4582 */
+"txtStateSoundExtracting" = "소리를 추출하고 있습니다. 기다려 주세요 ( %.1f %% )...";
+
+/* loco:5798c51514d72576138b4582 */
+"txtStateAddingCover" = "표지를 추가하고 있습니다. 기다려 주세요 ( %.1f %% )...";
+
+/* loco:5798c51614d72502158b458f */
+"txtStateVideoConverted" = "비디오 변환 중. 기다려 주세요(%.1f %%)...";
+
+/* loco:5798c51714d72520138b458b */
+"txtStateUpdateLinks" = "기다려 주세요, 다운로드 링크를 업데이트 중입니다.";
+
+/* loco:5798c51814d72567168b4567 */
+"txtStateSizeCalculation" = "파일 크기 가져오는 중...";
+
+/* loco:5798c51914d72576138b4584 */
+"txtSuspendDowloads" = "%d개 일시 중단 중";
+
+/* loco:5798c51914d7257a158b4580 */
+"txtActiveDowloads" = "%d개 진행 중";
+
+/* loco:5798c51a14d72557158b457b */
+"txtActiveSuspendDowloads" = "%d개 진행 중, %d개 일시 중단 중";
+
+/* loco:5798c51a14d72567168b4569 */
+"txtActiveQueuedDowloads" = "%d 진행 중, %d개 대기 중 ";
+
+/* loco:5798c51a14d72576138b4586 */
+"txtActiveSuspendQueuedDowloads" = "%d개 진행 중, %d개 일시 중단 중, %d개 대기 중";
+
+/* loco:5798c51a14d7257a158b4582 */
+"txtSuspendedQueuedDowloads" = "%개 일시 중단 중, %d 대기 중";
+
+/* loco:5798c51b14d72520138b458d */
+"tcmSuspendDownloadText" = "다운로드 일시 중단";
+
+/* loco:5798c51b14d72576138b4588 */
+"tcmCancelDownloadText" = "다운로드 취소";
+
+/* loco:5798c51b14d7257a158b4584 */
+"tcmShowInFinderText" = "Finder에서 보기";
+
+/* loco:5798c51b14d725b8128b459e */
+"tcmResumeDownloadText" = "다운로드 재시작";
+
+/* loco:5798c51c14d7250e138b458d */
+"tcmRemoveFromListText" = "목록에서 삭제";
+
+/* loco:5798c51c14d72520138b458f */
+"tcmOpenPageOriginText" = "원본 페이지 열기";
+
+/* loco:5798c51c14d72567168b456b */
+"alertSuccessfullActivationTrialInfo" = "Streamup를 활성화 해주셔서 감사합니다. 이 버전의 사용 기간이 %d일 남았습니다.";
+
+/* loco:5798c51c14d72576138b458a */
+"alertTrialMessage" = "Eltima Software의 Streamup를 사용해주셔서 감사합니다. 이 버전으로 14일 동안 모든 기능을 사용해 보실 수 있습니다.";
+
+/* loco:5798c51c14d725b8128b45a0 */
+"itemMaxQuality" = "최상";
+
+/* loco:5798c51d14d72520138b4591 */
+"alertTrialRemainedDaysInfo" = "무료 체험 기간이 %d일 남았습니다.";
+
+/* loco:5798c51f14d7250e138b4590 */
+"btnContinueTitle" = "계속하기";
+
+/* loco:5798c51f14d725b8128b45a4 */
+"btnQuitTitle" = "종료";
+
+/* loco:5798c52014d72565158b4588 */
+"alertTrialDemoIsOverInfo" = "가지고 계신 프로그램의 데모 기간이 끝났습니다.";

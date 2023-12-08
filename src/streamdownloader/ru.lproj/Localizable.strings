@@ -1,0 +1,198 @@
+// placeholder
+"placeholderVideoUrl" = "Вставьте YouTube URL(s)";
+
+// buttons
+"button_ok" = "Да";
+"button_cancel" = "Отмена";
+"button_yes" = "Да";
+"button_no" = "Нет";
+"button_open" = "Открыть";
+"button_dont_ask" = "Не спрашивать снова";
+"button_dont_show" = "Не показывать снова";
+
+"btnDownloadTitle" = "Скачать";
+"btnBuyNowTitle" = "Купить Streamup";
+"btnActivateTitle" = "Активировать Streamup";
+"btnLaterTitle" = "Напомнить позже";
+
+// buttons of alert about clean download list
+"btnClearAllTitle" = "Очистить все";
+"btnClearQueuedTitle" = "Очистить очередь";
+"btnClearSavedTitle" = "Очистить завершившиеся";
+
+// --- Differnt windows ---
+// welcome Window
+"welcomeWindowTitle" = "Потрясающие функции Streamup";
+"lblEasyDownloadHead" = "Легкое скачивание";
+"lblEasyDownloadText" = "Просто скопируйте ссылку на видео с вашего веб-браузера и вставьте её в Эйри. Вам не понадобятся дополнительные скрипты или плагины браузера.";
+"lblStartPauseHead" = "Приостановка и возобновление загрузок";
+"lblStartPauseText" = "Была ли загрузка приостановлена или прервана, ее всегда можно легко возобновить с того же места.";
+"lblTypeResolutionHead" = "Типы файлов и разрешение";
+"lblTypeResolutionText" = "Streamup может загрузить видео в различных форматах и разрешениях, включая HD и Ultra HD.";
+"lblExtractAudioHead" = "YouTube видео в MP3 файлы";
+"lblExtractAudioText" = "Если вам нужен только саундтрек, нет необходимости загружать все видео с YouTube целиком. Эйри может извлечь MP3 файлы из YouTube видео, и вы сможете ими наслаждаться на своем MP3-плеере.";
+"lblPlaylistChannelHead" = "YouTube плейлисты, каналы и видео";
+"lblPlaylistChannelText" = "Скачивайте целые каналы и плейлисты одной ссылкой. Добавьте множество ссылок на различные видео в Эйри и загрузите их все сразу.";
+
+// preferences Window
+"preferencesWindowTitle" = "Настройки Streamup";
+"lblChooseFolderText" = "Вберите папку для загрузок";
+"tooltipChooseFolder" = "Выбрать другую папку";
+"checkboxAlwaysAskTitle" = "Всегда спрашивать куда сохранять видео\n(только для 1 видео)";
+"btnUncheckAllTitle" = "Снять все флажки \"Не спрашивать снова\"";
+"checkboxSendStatisticsTitle" = "Отправить анонимную статистику использования в Streamup Team";
+
+// activation window
+"activationWindowTitle" = "Активация Streamup";
+"lblEnterActivationCodeText" = "Введите Ваш активационный код:";
+"lblActivationInfoText" = "Если Вы приобрели Streamup, на Ваш почтовый адрес выслано письмо с активационным кодом. Введите его сюда.";
+"btnLostCodeTitle" = "Потеряли свой активационный код?";
+
+// about window
+"aboutWindowTitle" = "Об Streamup";
+"lblVersionText" = "версия %@.%@";
+"lblLicenseTypeText" = "Лицензия:";
+"lblRegisteredText" = "Зарегистрировано на: ";
+"lblStreamupSoftwareText" = "© %d Streamup Team. All rights reserved";
+"aboutTrialVersion" = "Демо версия";
+"aboutUnknownName" = "неизвестно";
+
+// window of process parsing of playlist
+"parcingPlaylistWindowTitle" = "Парсинг плейлиста";
+"parcingChannelWindowTitle" = "Парсинг канала";
+"parcingInProcess" = "Идет разбор плейлиста...";
+"parcingProcessedLinks" = "Обработано %d из %d ссылок";
+
+// DemoReminder window
+"demoreminderWindowTitle" = "Демо версия истекла";
+"demoreminderCountFreeInfo" = "Вы использовали %d бесплатных загрузок в демо версии Streamup.";
+"demoreminderActivationMessage" = "Чтобы продолжить загрузку видео с YouTube, извлекать файлы MP3 и использовать другие полезные функции, активируйте Streamup";
+
+// OfferReminder window
+"offerreminderWindowTitle" = "Возврат в демо версию";
+"offerreminderCountFreeInfo" = "Вам доступны %d из %d бесплатных загрузок.";
+"offerreminderActivationMessage" = "Streamup вернулась в демо-режим, т. к. Вы выбрали обновление основной версии. Как пользователь версии 2.x., Вы имеете право на 50% скидку, \n\nДля продолжения скачивания видео с YouTube, извлечения MP3 файлов и использования других полезных функций - активируйте Streamup PRO.";
+
+// buttons for windows of reminders
+"btnReminderKeepFreeTitle" = "Оставить бесплатную версию";
+"btnReminderActivateTitle" = "Активировать";
+"btnReminderBuyNowTitle" = "Купить";
+
+// --- Differnt alerts ---
+// activation window
+"alertWrongActivationMessage" = "Активация не выполнена";
+"alertWrongActivationInfo" = "Пожалуйста, убедитесь, что активационный код введен корректно. Во избежание ошибок при вводе рекомендуется скопировать и вставить код.";
+"alertSuccessfullActivationMessage" = "Активация прошла успешно";
+"alertSuccessfullActivationInfo" = "Спасибо за активацию Streamup. Теперь Вы сможете пользоваться всеми предлагаемыми функциями";
+
+// reactivation
+"alertReactivateMessage" = "Активация не прошла";
+"alertReactivateInfo" = "Пришло время для обязательной реактивации Вашей лицензии Streamup. К сожалению автоматическая реактивация не удалась и до тех пор, пока она не пройдет успешно, программа вернется в бесплатный режим. Пожалуйста, убедитесь, что вы подключены к Интернет, дата и время выставлены корректно на этом Маке и брандмауэр не препятствует подключению Streamup к активационному серверу.";
+
+// terminate app
+"alertTerminateMessage" = "Выйти из приложения";
+"alertTerminateDownloadInfo" = "Сейчас у Вас активных загрузок %d, приостановленых %d.\nБудут восстановлены все загрузки при следующем запуске Streamup.";
+"alertTerminateParsingInfo" = "В настоящее время идет парсинг плейлиста или канала. Вы хотите его остановить и прервать?";
+
+//error 404
+"alertError404Message" = "В данный момент это видео не может быть скачано";
+"alertError404Info" = "Запрашиваемый ресурс %@ не найден, но возможно будет доступен в будущем. Попробуйте позже.";
+
+// alert if the video is the part of playlist
+"alertVideoPartPlaylistMessage" = "Это видео часть плейлиста";
+"alertVideoPartPlaylistInfo" = "Вы хотите скачать весь плейлист или только видео?";
+"btnRememberChoiceTitle" = "Запомнить выбор";
+"btnDownloadVideoTitle" = "Скачать видео";
+"btnDownloadPlaylistTitle" = "Скачать плейлист";
+
+// video already downloading
+"alertVideoIsLoadingMessage" = "Видео данного типа и разрешения загружается в текущий момент или в очереди для загрузки";
+"alertVideoIsLoadingInfo" = "Если Вы хотите скачать это же видео вновь, пожалуйста, подождите, пока закончится текущая загрузка.";
+
+// canceling downloads
+"alertCancelDonloadMessage" = "Отменить загрузку видео \"%@\"?";
+"alertCancelDowloadInfo" = "При отмене данной загрузки вы не сможете возобновить скачивание с прерванного момента";
+
+// file(s) does not exists
+"alertNotExistInFinderMessage" = "Файл не существует";
+"alertNotExistInFinderInfo" = "Возможно Вы удалили его с Вашего компьютера или переместили в другую папку. Удалить его из списка загрузок?";
+
+"alertNotExistMessage" = "Файл не существует";
+"alertNotExistInfo" = "Возможно Вы удалили его с Вашего компьютера или переместили в другую папку.";
+
+// connection failed
+"alertInfoFailConnection" = "Один или более ресурсов не могут быть загружены прямо сейчас.";
+"alertInfoConnectionLost" = "Хотите возобновить прерванные загрузки?";
+
+// free space on the disk
+"alertFreeSpaceMessage" = "Недостаточно места на диске";
+"alertFreeSpaceInfo" = "У Вас недостаточно места на диске для сохранения новых видео.\nОсвободите место на диске и попробуйте снова.";
+
+// device not configured
+"alertNoDeviceMessage" = "Не могу найти устройство";
+"alertNoDeviceInfo" = "Удостоверьтесь устройство, на котором Вы хотите сохранить видео, должным образом соединено с Вашим компьютером, и попробуйте еще раз.";
+
+// path not exists
+"alertPathNotExistsMessage" = "Не могу сохранить по указанному пути";
+"alertPathNotExistsInfo" = "Удостоверьтесь, что путь существует. Проверьте,  правильно ли он указан в настройках Streamup.";
+
+// clear download list
+"alertClearDownloadListMessage" = "Очистить список загрузок";
+"alertClearDownloadListInfo" = "Вы уверены, что хотите удалить загруженные файлы из списка?";
+"alertClearDownloadListOneActiveInfo" = "У Вас %ld активная загрузка в настоящее время. Если Вы очистите список сейчас, то Вы не сможете возобновить ее.";
+"alertClearDownloadListFewActiveInfo" = "У Вас %ld активные загрузки в настоящее время. Если Вы очистите список сейчас, то Вы не сможете возобновить их.";
+
+// not available links
+"alertMessageLinksNotAvailable" = "Некоторые ссылки не доступны";
+"alertInfoLinksNotAvailable" = "Мы обработали Ваши ссылки, но некоторые видео не могут быть загружены по различным причинам. Эти ссылки были пропущены.";
+"alertInfoLinksNotAvailable2" = "Мы обработали Ваши ссылки, но некоторые видео не могут быть загружены по различным причинам. Эти ссылки были пропущены. Пропущено %d из %d ссылок.";
+
+// login in Youtube
+"alertLoginYoutubeMessage" = "Войти в аккаунт YouTube";
+"alertLoginYoutubeInfo" = "Для загрузки приватных или видео с возрастным ограничением, Вам необходимо войти в Ваш аккаунт YouTube.";
+"alertLoginYoutubeExpiredInfo" = "Время Вашего YouTube сеанса истекло. Выйдите и выполните вход заново.";
+"alertLinksNotAvailableInfo3" = "Мы обработали Ваши ссылки, но некоторые видео не могут быть загружены по разным причинам. Всего Streamup было пропущено ссылок: %d из %d. Для улучшения процесса загрузки, войдите пожалуйста в ваш аккаунт YouTube.";
+"btnLoginTitle" = "Войти";
+"btnLogoutTitle" = "Выйти";
+
+// Other
+"lblInvitationText" = "После того, как Вы ввели URL, нажмите";
+
+"lblAvailableDowloadsText" = "У Вас осталось %d бесплатных загрузок";
+
+// current state for items
+"txtStateSuspended" = "Загрузка приостановлена";
+"txtStateSuspendedConvert" = "Конвертация приостановлена";
+"txtStateResumedAndQueued" = "Загрузка восстановлена и поставлена в очередь";
+"txtStateErrorWhenConverting" = "Ошибка при конвертации";
+"txtStateQueued" = "Ожидает в очереди загрузок...";
+"txtStateSoundExtracting" = "Извлекаем звук. Пожалуйста, подождите ( %.1f %% )...";
+"txtStateAddingCover" = "Добавляется обложка. Пожалуйста, подождите ( %.1f %% )...";
+"txtStateVideoConverted" = "Видео конвертируется. Пожалуйста, подождите ( %.1f %% )...";
+"txtStateUpdateLinks" = "Подождите, обновляется ссылка для загрузки";
+"txtStateSizeCalculation" = "Получение размера файла...";
+
+// status bar text
+"txtActiveDowloads" = "Активных %d";
+"txtSuspendDowloads" = "Приостановленых %d";
+"txtActiveSuspendDowloads" = "Активных %d, приостановленых %d";
+"txtActiveQueuedDowloads" = "Активных %d, в очереди %d";
+"txtSuspendedQueuedDowloads" = "Приостановленых %d, в очереди %d";
+"txtActiveSuspendQueuedDowloads" = "Активных %d, приостановленых %d, в очереди %d";
+
+// tooltips and context menu (TCM)
+"tcmSuspendDownloadText" = "Приостановить загрузку";
+"tcmResumeDownloadText" = "Востановить загрузку";
+"tcmShowInFinderText" = "Показать в Finder";
+"tcmCancelDownloadText" = "Отменить загрузку";
+"tcmRemoveFromListText" = "Удалить из списка";
+"tcmOpenPageOriginText" = "Открыть страницу источника";
+
+// button format/resolution
+"itemMaxQuality" = "лучшее";
+
+//Alert about copyright compliance of third party
+"btnDeclineTitle" = "Decline";
+"btnAgreeTitle" = "I agree";
+"alertMessageCopyrightCompliance" = "A very important notice";
+"alertInfoCopyrightCompliance" = "Streamup is the app to back up your own media content for offline viewing and storing. If you are planning to back up someone else's content, please, be aware, as a user, you are completely responsible for any potential copyright issues.";

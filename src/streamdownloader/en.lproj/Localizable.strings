@@ -1,0 +1,206 @@
+// placeholder
+"placeholderVideoUrl" = "Paste YouTube URL(s)";
+
+// buttons
+"button_ok" = "Ok";
+"button_cancel" = "Cancel";
+"button_yes" = "Yes";
+"button_no" = "No";
+"button_open" = "Open";
+"button_dont_ask" = "Don't ask again";
+"button_dont_show" = "Don't show again";
+
+"btnDownloadTitle" = "Download";
+"btnBuyNowTitle" = "Buy Streamup";
+"btnActivateTitle" = "Activate Streamup";
+"btnLaterTitle" = "Later";
+
+// buttons of alert about clean download list
+"btnClearAllTitle" = "Clear all";
+"btnClearQueuedTitle" = "Clear queued";
+"btnClearSavedTitle" = "Clear finished";
+
+// --- Differnt windows ---
+// welcome Window
+"welcomeWindowTitle" = "Awesome Streamup Features";
+"lblEasyDownloadHead" = "Downloading is easy";
+"lblEasyDownloadText" = "Just copy a video link from your web browser and paste it in Streamup. No need for additional scripts or browser plug-ins.";
+"lblStartPauseHead" = "Pause and resume downloads";
+"lblStartPauseText" = "Whether you paused the download or it was interrupted it is always easy to resume from the exact same spot.";
+"lblTypeResolutionHead" = "File types and resolution";
+"lblTypeResolutionText" = "Streamup can download videos in various formats and resolutions, even HD and Ultra HD.";
+"lblExtractAudioHead" = "YouTube videos to MP3 files";
+"lblExtractAudioText" = "If you are only interested in a soundtrack, you don’t need to download the whole YouTube video. Streamup can extract MP3 files from YouTube videos, so you can enjoy them on your MP3 player.";
+"lblPlaylistChannelHead" = "YouTube playlists, channels and videos";
+"lblPlaylistChannelText" = "Download complete channels and playlists with one link. Add many links to various videos in Streamup and download them at once.";
+
+// preferences Window
+"preferencesWindowTitle" = "Streamup Preferences";
+"lblChooseFolderText" = "Choose folder for downloads";
+"tooltipChooseFolder" = "Choose other folder";
+"checkboxAlwaysAskTitle" = "Always ask where to save video (for 1 video only)";
+"btnUncheckAllTitle" = "Uncheck all \"Don't ask me again\" boxes";
+"checkboxSendStatisticsTitle" = "Send anonymous usage statistics to Streamup Team";
+
+// activation window
+"activationWindowTitle" = "Activation Streamup";
+"lblEnterActivationCodeText" = "Please enter your activation code:";
+"lblActivationInfoText" = "If you purchased Streamup, the activation code will be in your email. Type it here.";
+"btnLostCodeTitle" = "Lost your Activation Code?";
+
+// about window
+"aboutWindowTitle" = "About Streamup";
+"lblVersionText" = "version %@.%@";
+"lblLicenseTypeText" = "License type: ";
+"lblRegisteredText" = "Registered to: ";
+"lblStreamupSoftwareText" = "© %d Streamup Team. All rights reserved";
+"aboutTrialVersion" = "Trial version";
+"aboutUnknownName" = "unknown";
+
+// window of process parsing of playlist
+"parcingPlaylistWindowTitle" = "Parsing of the playlist";
+"parcingChannelWindowTitle" = "Parsing of the channel";
+"parcingInProcess" = "Parsing in progress...";
+"parcingProcessedLinks" = "Processed %d of %d links";
+
+// DemoReminder window
+"demoreminderWindowTitle" = "Demo Expired";
+"demoreminderCountFreeInfo" = "You have used your free %d downloads with Streamup demo.";
+"demoreminderActivationMessage" = "To continue downloading YouTube videos, extract MP3 tracks and use other cool features, activate Streamup";
+
+// OfferReminder window
+"offerreminderWindowTitle" = "Reverted into Demo Mode";
+"offerreminderCountFreeInfo" = "%d of %d free downloads are available to you.";
+"offerreminderActivationMessage" = "Streamup is back to Demo mode, since you opted for a major update. As a user of PRO version 2.x you can upgrade with 50% discount.\n\nTo keep downloading YouTube videos, extracting MP3 tracks and using other cool features, activate Streamup PRO.";
+
+// buttons for windows of reminders
+"btnReminderKeepFreeTitle" = "Keep the free version";
+"btnReminderActivateTitle" = "Activate";
+"btnReminderBuyNowTitle" = "Buy Now";
+
+// --- Differnt alerts ---
+// activation window
+"alertWrongActivationMessage" = "Activation could not be completed";
+"alertWrongActivationInfo" = "Please make sure you have entered the Activation code correctly. It is recommended that you use copy and paste operations in order to avoid input mistakes.";
+"alertSuccessfullActivationMessage" = "Activation successful";
+"alertSuccessfullActivationInfo" = "Thank you for activating Streamup. You can now enjoy all great features it offers.";
+
+// reactivation
+"alertReactivateMessage" = "Activation failed";
+"alertReactivateInfo" = "It is time for required re-activation of your Streamup license. Unfortunately, automatic re-activation failed and until it is performed successfully, software goes back to Free version. Please make sure that your connection to Internet is active, date and time are set correctly on this Mac and there's no firewall preventing Streamup from connecting to the activation server.";
+
+// terminate app
+"alertTerminateMessage" = "Quit Streamup";
+"alertTerminateDownloadInfo" = "You have %d active downloads and %d suspended downloads at the moment.\nWe will restore all of them next time you run Streamup.";
+"alertTerminateParsingInfo" = "Parsing of playlist or channel is in progress. Do you want to quit and interrupt it?";
+
+//error 404
+"alertError404Message" = "This video cannot be downloaded now";
+"alertError404Info" = "The requested resource %@ was not found, but may become available in the future. Try again later.";
+
+// alert if the video is the part of playlist
+"alertVideoPartPlaylistMessage" = "This video is part of playlist";
+"alertVideoPartPlaylistInfo" = "Would you like to download entire playlist or only video?";
+"btnRememberChoiceTitle" = "Remember my choice";
+"btnDownloadVideoTitle" = "Download video";
+"btnDownloadPlaylistTitle" = "Download playlist";
+
+// video already downloading
+"alertVideoIsLoadingMessage" = "Video of the same type and resolution is currently downloading or queued for downloading";
+"alertVideoIsLoadingInfo" = "If you want to download the same video again, please wait until current download is complete.";
+
+// canceling downloads
+"alertCancelDonloadMessage" = "Cancel downloading of video \"%@\"?";
+"alertCancelDowloadInfo" = "If you cancel this download you won't be able to resume it, but download it anew.";
+
+// file(s) does not exists
+"alertNotExistInFinderMessage" = "File does not exist";
+"alertNotExistInFinderInfo" = "Probably you have deleted it from your computer or moved to another folder. Remove it from the list of downloads?";
+
+"alertNotExistMessage" = "File(s) does not exist";
+"alertNotExistInfo" = "Probably you have deleted it from your computer or moved to another folder.";
+
+// connection failed
+"alertInfoFailConnection" = "One or more resources cannot be downloaded now.";
+"alertInfoConnectionLost" = "Would you like to resume the interrupted downloads?";
+
+// free space on the disk
+"alertFreeSpaceMessage" = "Not enough disk space";
+"alertFreeSpaceInfo" = "You don't have enough disk space to save new videos. Free some space and try again.";
+
+// device not configured
+"alertNoDeviceMessage" = "Could not find device";
+"alertNoDeviceInfo" = "Please make sure the device you want to save videos to is properly connected to your computer and try again.";
+
+// path not exists
+"alertPathNotExistsMessage" = "Could not save at indicated path";
+"alertPathNotExistsInfo" = "Please make sure that this path exists. Check whether the path is correctly indicated in Streamup Preferences.";
+
+// clear download list
+"alertClearDownloadListMessage" = "Clear download list";
+"alertClearDownloadListInfo" = "Are you sure you want to remove downloaded files from the list?";
+"alertClearDownloadListOneActiveInfo" = "You have %ld active download at the moment. If you clear the list now you won't be able to resume it.";
+"alertClearDownloadListFewActiveInfo" = "You have %ld active downloads at the moment. If you clear the list now you won't be able to resume them.";
+
+// not available links
+"alertMessageLinksNotAvailable" = "Some links are not available";
+"alertInfoLinksNotAvailable" = "We processed your links, but some videos cannot be downloaded for various reasons. These links were skipped.";
+"alertInfoLinksNotAvailable2" = "We processed your links, but some videos cannot be downloaded for various reasons. These links were skipped. Skipped %d of %d links.";
+
+// login in Youtube
+"alertLoginYoutubeMessage" = "Sign in to YouTube account";
+"alertLoginYoutubeInfo" = "To be able to download videos that are age-restricted or private you'll need to sign in to your YouTube account. ";
+"alertLoginYoutubeExpiredInfo" = "Your YouTube session has expired. Sign out and sign in again.";
+"alertLinksNotAvailableInfo3" = "We processed your links, but some videos could not be downloaded for various reasons. Streamup had to skip %d of %d links. To improve the download process log in to your YouTube account. ";
+"btnLoginTitle" = "Sign In";
+"btnLogoutTitle" = "Sign Out";
+
+// Other
+"lblInvitationText" = "After you entered URL click";
+
+"lblAvailableDowloadsText" = "You have %d free download(s) left";
+
+// current state for items
+"txtStateSuspended" = "Download suspended";
+"txtStateSuspendedConvert" = "Conversion suspended";
+"txtStateResumedAndQueued" = "Resumed and queued";
+"txtStateErrorWhenConverting" = "Error when converting";
+"txtStateQueued" = "Queued for download...";
+"txtStateSoundExtracting" = "Extracting the sound. Please wait ( %.1f %% )...";
+"txtStateAddingCover" = "Adding the artwork. Please wait ( %.1f %% )...";
+"txtStateVideoConverted" = "Converting video. Please wait ( %.1f %% )...";
+"txtStateUpdateLinks" = "Hold on, updating download link";
+"txtStateSizeCalculation" = "Getting the file size...";
+
+// status bar text
+"txtActiveDowloads" = "Active %d";
+"txtSuspendDowloads" = "Suspended %d";
+"txtActiveSuspendDowloads" = "Active %d, suspended %d";
+"txtActiveQueuedDowloads" = "Active %d, queued %d";
+"txtSuspendedQueuedDowloads" = "Suspended %d, queued %d";
+"txtActiveSuspendQueuedDowloads" = "Active %d, suspended %d, queued %d";
+
+// tooltips and context menu (TCM)
+"tcmSuspendDownloadText" = "Suspend the download";
+"tcmResumeDownloadText" = "Resume the download";
+"tcmShowInFinderText" = "Show in Finder";
+"tcmCancelDownloadText" = "Cancel the download";
+"tcmRemoveFromListText" = "Remove from the list";
+"tcmOpenPageOriginText" = "Open page of origin";
+
+// button format/resolution
+"itemMaxQuality" = "best";
+
+//Alert about copyright compliance of third party
+"btnDeclineTitle" = "Decline";
+"btnAgreeTitle" = "I agree";
+"alertMessageCopyrightCompliance" = "A very important notice";
+"alertInfoCopyrightCompliance" = "Streamup is the app to back up your own media content for offline viewing and storing. If you are planning to back up someone else's content, please, be aware, as a user, you are completely responsible for any potential copyright issues.";
+
+// Alert for trial version
+//"alertSuccessfullActivationTrialInfo" = "Thank you for activating Streamup. This version is fully functional for %d days only.";
+//"alertTrialMessage" = "Thank you for trying of Streamup by Streamup Team. This version is fully functional for 14 days only.";
+//"alertTrialRemainedDaysInfo" = "You have %d days of free trial.";
+//"alertTrialDemoIsOverInfo" = "Demo period is over for your copy of the software.";
+//"btnContinueTitle" = "Continue";
+//"btnQuitTitle" = "Quit";

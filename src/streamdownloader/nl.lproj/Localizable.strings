@@ -1,0 +1,198 @@
+// placeholder
+"placeholderVideoUrl" = "Plak YouTube URL(s)";
+
+// buttons
+"button_ok" = "Ok";
+"button_cancel" = "Annuleer";
+"button_yes" = "Ja";
+"button_no" = "Nee";
+"button_open" = "Open";
+"button_dont_ask" = "Vraag niet opnieuw";
+"button_dont_show" = "Laat niet meer zien";
+
+"btnDownloadTitle" = "Download";
+"btnBuyNowTitle" = "Koop Streamup";
+"btnActivateTitle" = "Activeer Streamup";
+"btnLaterTitle" = "Later";
+
+// buttons of alert about clean download list
+"btnClearAllTitle" = "Wis alles";
+"btnClearQueuedTitle" = "Wis wachtrij";
+"btnClearSavedTitle" = "Wis beëindigde";
+
+// --- Differnt windows ---
+// welcome Window
+"welcomeWindowTitle" = "Fantastische functie van Streamup";
+"lblEasyDownloadHead" = "Downloaden is eenvoudig";
+"lblEasyDownloadText" = "Kopieer simpelweg een videolink vanuit uw webbrowser en plak deze in Streamup. Extra scripts of browserplug-ins zijn niet nodig.";
+"lblStartPauseHead" = "Downloads pauzeren en hervatten";
+"lblStartPauseText" = "Of u nu de download pauzeert of onderbroken wordt, het bestand is altijd gemakkelijk te hervatten vanaf exact dezelfde plek.";
+"lblTypeResolutionHead" = "Bestandstypen en resolutie";
+"lblTypeResolutionText" = "Streamup kan video’s downloaden in diverse formats en resoluties, zelfs HD en Ultra HD.";
+"lblExtractAudioHead" = "YouTube-video’s naar mp3-bestanden";
+"lblExtractAudioText" = "Als u alleen geïnteresseerd bent in een geluidsspoor hoeft u niet de hele YouTube-video te downloaden. Streamup kan mp3-bestanden onttrekken van YouTube-video’s zodat u ervan kunt genieten op uw mp3-speler.";
+"lblPlaylistChannelHead" = "YouTube-afspeellijsten, -kanalen en -video’s";
+"lblPlaylistChannelText" = "Download volledige kanalen en afspeellijsten met één link. Voeg veel links toe naar diverse video’s in Streamup en download ze in één keer.";
+
+// preferences Window
+"preferencesWindowTitle" = "Streamup voorkeuren";
+"lblChooseFolderText" = "Kies downloadmap";
+"tooltipChooseFolder" = "Kies andere map";
+"checkboxAlwaysAskTitle" = "Vraag altijd waar video moet worden bewaard (slechts voor 1 video)";
+"btnUncheckAllTitle" = "Haal vinkje weg bij alle \"Vraag niet opnieuw\" vakjes";
+"checkboxSendStatisticsTitle" = "Zend anonieme gebruiksstatistieken naar Streamup Team";
+
+// activation window
+"activationWindowTitle" = "Activering van Streamup";
+"lblEnterActivationCodeText" = "Graag uw activeringscode invullen:";
+"lblActivationInfoText" = "Als u Streamup heeft aangeschaft, zal de activeringscode in uw e-mailbericht staan. Vul het hier in.";
+"btnLostCodeTitle" = "Heeft u uw activeringscode verloren?";
+
+// about window
+"aboutWindowTitle" = "Over Streamup";
+"lblVersionText" = "versie %@.%@";
+"lblLicenseTypeText" = "Licentie type: ";
+"lblRegisteredText" = "Geregistreerd aan: ";
+"lblStreamupSoftwareText" = "© %d Streamup Team. Alle rechten voorbehouden";
+"aboutTrialVersion" = "Probeerversie";
+"aboutUnknownName" = "onbekend";
+
+// window of process parsing of playlist
+"parcingPlaylistWindowTitle" = "Parseren afspeellijst";
+"parcingChannelWindowTitle" = "Parseren van het kanaal";
+"parcingInProcess" = "Parseren in uitvoering...";
+"parcingProcessedLinks" = "%d van %d links verwerkt";
+
+// DemoReminder window
+"demoreminderWindowTitle" = "Demo verlopen";
+"demoreminderCountFreeInfo" = "U heeft uw gratis %d downloads met de Streamup demo verbruikt.";
+"demoreminderActivationMessage" = "Om door te gaan met het downloaden van YouTube video's, extraheren van MP3 tracks en gebruik te maken van andere geweldige functies, activeer Streamup";
+
+// OfferReminder window
+"offerreminderWindowTitle" = "Teruggevallen naar de demo modus";
+"offerreminderCountFreeInfo" = "%d van %d gratis downloads zijn voor u beschikbaar.";
+"offerreminderActivationMessage" = "Streamup is terug naar demo modus, aangezien u heeft gekozen voor een belangrijke update. Als gebruiker van de PRO versie 2.x kunt u opwaarderen met 50% korting.\n\nOm door te kunnen gaan met het downloaden van YouTube video's, het extraheren van MP3 tracks en het gebruik van andere handige functies raden we aan Streamup PRO te activeren.";
+
+// buttons for windows of reminders
+"btnReminderKeepFreeTitle" = "Houd de gratis versie";
+"btnReminderActivateTitle" = "Activeren";
+"btnReminderBuyNowTitle" = "Koop nu";
+
+// --- Differnt alerts ---
+// activation window
+"alertWrongActivationMessage" = "Activering kon niet worden voltooid";
+"alertWrongActivationInfo" = "Verzeker u er ervan dat u de juiste activeringscode heeft ingevuld. Het wordt aangeraden dat u dit doet via knippen en plakken om tikfouten te voorkomen.";
+"alertSuccessfullActivationMessage" = "Activering met succes voltooid";
+"alertSuccessfullActivationInfo" = "Dank u voor het activeren van Streamup. U kunt nu alle van geweldige functies gebruik maken.";
+
+// reactivation
+"alertReactivateMessage" = "Activering mislukt";
+"alertReactivateInfo" = "Het is tijd voor de verplichte heractivering van uw Streamup licentie. Helaas is de automatische heractivering mislukt en totdat die met succes is uitgevoerd, valt uw software terug op de Gratis versie status. Controleer of uw Internet verbinding actief is en de datum en tijd correct zijn ingesteld op deze Mac en dat er geen firewall de verbinding met de Streamup activeringsserver verhindert.";
+
+// terminate app
+"alertTerminateMessage" = "Stop Streamup";
+"alertTerminateDownloadInfo" = "U heeft op dit moment %d actieve downloads en %d uitgestelde downloads.\nWij zullen die allemaal de volgende keer dat u Streamup opstart herstellen.";
+"alertTerminateParsingInfo" = "Parseren van afspeellijsten of kanaal is nu bezig. Wilt u stoppen en het onderbreken?";
+
+//error 404
+"alertError404Message" = "Deze video kan nu niet worden gedownload";
+"alertError404Info" = "De gevraagde bron %@ is niet gevonden, maar kan later beschikbaar komen. Probeer later opnieuw.";
+
+// alert if the video is the part of playlist
+"alertVideoPartPlaylistMessage" = "Deze video is onderdeel van een afspeellijst";
+"alertVideoPartPlaylistInfo" = "Wilt u de hele afspeellijst downloaden of alleen de video?";
+"btnRememberChoiceTitle" = "Onthoud mijn keuze";
+"btnDownloadVideoTitle" = "Download video";
+"btnDownloadPlaylistTitle" = "Download afspeellijst";
+
+// video already downloading
+"alertVideoIsLoadingMessage" = "Video van hetzelfde type en resolutie wordt al gedownload of staat in de wachtrij";
+"alertVideoIsLoadingInfo" = "Als u dezelfde video opnieuw wilt downloaden, wacht dan tot de huidige download gereed is.";
+
+// canceling downloads
+"alertCancelDonloadMessage" = "Downloaden annuleren van video \"%@\"?";
+"alertCancelDowloadInfo" = "Als u deze download annuleert kunt u die niet meer hervatten, maar wel opnieuw downloaden.";
+
+// file(s) does not exists
+"alertNotExistInFinderMessage" = "Bestand bestaat niet";
+"alertNotExistInFinderInfo" = "U heeft het waarschijnlijk verwijderd van uw computer of naar een andere map verplaatst. Van de downloadlijst verwijderen?";
+
+"alertNotExistMessage" = "Bestand(en) bestaan niet";
+"alertNotExistInfo" = "U heeft het waarschijnlijk verwijderd van uw computer of naar een andere map verplaatst.";
+
+// connection failed
+"alertInfoFailConnection" = "Een of meer bronnen kunnen nu niet worden gedownload.";
+"alertInfoConnectionLost" = "Wilt u de onderbroken downloads hervatten?";
+
+// free space on the disk
+"alertFreeSpaceMessage" = "Niet genoeg schijfruimte";
+"alertFreeSpaceInfo" = "U heeft niet genoeg schijfruimte voor het opslaan van nieuwe video's. Maak wat ruimte en probeer opnieuw.";
+
+// device not configured
+"alertNoDeviceMessage" = "Kon apparaat niet vinden";
+"alertNoDeviceInfo" = "Verzeker u ervan dat het apparaat waarop u video's wilt bewaren correct is aangesloten op uw computer en probeer opnieuw.";
+
+// path not exists
+"alertPathNotExistsMessage" = "Opslaan naar aangegeven pad niet mogelijk";
+"alertPathNotExistsInfo" = "Verzeker u ervan dat het pad bestaat. Controleer of het pad correct is aangegeven bij de Streamup Voorkeursinstellingen.";
+
+// clear download list
+"alertClearDownloadListMessage" = "Wis downloadlijst";
+"alertClearDownloadListInfo" = "weet u zeker dat u gedownloade bestanden van de lijst wilt verwijderen?";
+"alertClearDownloadListOneActiveInfo" = "U heeft nu %ld actieve download. Als u nu de lijst wist kunt u de download niet hervatten.";
+"alertClearDownloadListFewActiveInfo" = "U heeft nu %ld actieve downloads. Als u nu de lijst wist kunt u de downloads niet hervatten.";
+
+// not available links
+"alertMessageLinksNotAvailable" = "Sommige links zijn niet beschikbaar";
+"alertInfoLinksNotAvailable" = "Wij hebben uw links verwerkt, maar sommige video's kunnen om diverse redenen niet worden gedownload. Deze links werden overgeslagen.";
+"alertInfoLinksNotAvailable2" = "Wij hebben uw links verwerkt, maar sommige video's kunnen om diverse redenen niet worden gedownload. Deze links werden overgeslagen. %d van %d links overgeslagen.";
+
+// login in Youtube
+"alertLoginYoutubeMessage" = "Log in op uw YouTube account";
+"alertLoginYoutubeInfo" = "Om video's te kunnen downloaden die leeftijdsgebonden zijn of privé moet u eerst inloggen op uw YouTube account.";
+"alertLoginYoutubeExpiredInfo" = "Uw YouTube sessie is verlopen. Log uit en daarna weer in.";
+"alertLinksNotAvailableInfo3" = "We hebben uw links verwerkt, maar sommige video's konden niet worden gedownload om verschillende redenen. Streamup moest %d van %d links overslaan. Om het download proces te verbeteren kunt uw inloggen op uw YouTube account.";
+"btnLoginTitle" = "Log in";
+"btnLogoutTitle" = "Log uit";
+
+// Other
+"lblInvitationText" = "Na het invullen van de URL klik";
+
+"lblAvailableDowloadsText" = "U heeft nog %d gratis download(s) over";
+
+// current state for items
+"txtStateSuspended" = "Download uitgesteld";
+"txtStateSuspendedConvert" = "Conversie uitgesteld";
+"txtStateResumedAndQueued" = "Hervat en in de wachtrij";
+"txtStateErrorWhenConverting" = "Fout bij het converteren";
+"txtStateQueued" = "In de wachtrij voor download...";
+"txtStateSoundExtracting" = "Het extraheren van het geluid. Even geduld ( %.1f %% )...";
+"txtStateAddingCover" = "Toevoegen van illustraties. Even geduld ( %.1f %% )...";
+"txtStateVideoConverted" = "Converteren van video. Even geduld ( %.1f %% )...";
+"txtStateUpdateLinks" = "Even wachten, de download link wordt bijgewerkt";
+"txtStateSizeCalculation" = "Inlezen van bestandsgrootte...";
+
+// status bar text
+"txtActiveDowloads" = "Actief %d";
+"txtSuspendDowloads" = "Uitgesteld %d";
+"txtActiveSuspendDowloads" = "Actief %d, uitgesteld %d";
+"txtActiveQueuedDowloads" = "Actief %d, in wachtrij %d";
+"txtSuspendedQueuedDowloads" = "Uitgesteld %d, in wachtrij %d";
+"txtActiveSuspendQueuedDowloads" = "Actief %d, uitgesteld %d, in wachtrij %d";
+
+// tooltips and context menu (TCM)
+"tcmSuspendDownloadText" = "Stel download uit";
+"tcmResumeDownloadText" = "Hervat de download";
+"tcmShowInFinderText" = "Toon in Finder";
+"tcmCancelDownloadText" = "Annuleer de download";
+"tcmRemoveFromListText" = "Verwijder van de lijst";
+"tcmOpenPageOriginText" = "Open bronpagina";
+
+// button format/resolution
+"itemMaxQuality" = "beste";
+
+//Alert about copyright compliance of third party
+"btnDeclineTitle" = "Decline";
+"btnAgreeTitle" = "I agree";
+"alertMessageCopyrightCompliance" = "A very important notice";
+"alertInfoCopyrightCompliance" = "Streamup is the app to back up your own media content for offline viewing and storing. If you are planning to back up someone else's content, please, be aware, as a user, you are completely responsible for any potential copyright issues.";

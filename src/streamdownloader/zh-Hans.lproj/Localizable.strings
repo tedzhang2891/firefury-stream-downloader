@@ -1,0 +1,198 @@
+// placeholder
+"placeholderVideoUrl" = "粘贴YouTube网址";
+
+// buttons
+"button_ok" = "好";
+"button_cancel" = "取消";
+"button_yes" = "是";
+"button_no" = "否";
+"button_open" = "打开";
+"button_dont_ask" = "不再询问";
+"button_dont_show" = "不再显示";
+
+"btnDownloadTitle" = "下载";
+"btnBuyNowTitle" = "购买Streamup";
+"btnActivateTitle" = "激活Streamup";
+"btnLaterTitle" = "以后";
+
+// buttons of alert about clean download list
+"btnClearAllTitle" = "全部清除";
+"btnClearQueuedTitle" = "清除队列";
+"btnClearSavedTitle" = "清除已完成";
+
+// --- Differnt windows ---
+// welcome Window
+"welcomeWindowTitle" = "Streamup出色的功能";
+"lblEasyDownloadHead" = "方便的下载";
+"lblEasyDownloadText" = "只需从你的浏览器复制视频链接然后粘贴到Streamup即可。无需额外的浏览器脚本、插件等。";
+"lblStartPauseHead" = "暂停和恢复下载";
+"lblStartPauseText" = "无论是您暂停了下载还是下载被中断了，它都可以精确的从断点位置继续下载。";
+"lblTypeResolutionHead" = "文件类型和分辨率";
+"lblTypeResolutionText" = "Streamup可以下载多种格式、分辨率的视频，甚至还支持HD（高清）和UHD（超高清）视频。";
+"lblExtractAudioHead" = "YouTube视频转MP3文件";
+"lblExtractAudioText" = "如果您仅对音轨感兴趣，无需下载整个YouTube视频，Streamup可以从YouTube视频中直接解压MP3文件，因此您可以直接在您的MP3播放器上欣赏它了！";
+"lblPlaylistChannelHead" = "YouTube播放列表、频道和视频";
+"lblPlaylistChannelText" = "仅需一个链接即可下载整个频道和播放列表。在Streamup中一次添加若干不同视频的链接即可一次下载完成。";
+
+// preferences Window
+"preferencesWindowTitle" = "Streamup偏好设置";
+"lblChooseFolderText" = "选择下载文件夹";
+"tooltipChooseFolder" = "选择另一个文件夹";
+"checkboxAlwaysAskTitle" = "总是询问视频存储路径(仅对单个视频有效)";
+"btnUncheckAllTitle" = "取消所有 \"不再询问\" 盒子";
+"checkboxSendStatisticsTitle" = "Send anonymous usage statistics to Streamup Team";
+
+// activation window
+"activationWindowTitle" = "激活Streamup";
+"lblEnterActivationCodeText" = "请输入你的激活码:";
+"lblActivationInfoText" = "如果你购买了Streamup, 激活码通过邮件发送.在此输入.";
+"btnLostCodeTitle" = "丢失了你的激活码?";
+
+// about window
+"aboutWindowTitle" = "关于Streamup";
+"lblVersionText" = "version %@.%@";
+"lblLicenseTypeText" = "License type: ";
+"lblRegisteredText" = "注册给: ";
+"lblStreamupSoftwareText" = "© %d Streamup Team. 保留所有权利";
+"aboutTrialVersion" = "体验版";
+"aboutUnknownName" = "未知";
+
+// window of process parsing of playlist
+"parcingPlaylistWindowTitle" = "解析播放列表";
+"parcingChannelWindowTitle" = "解析频道";
+"parcingInProcess" = "正在解析...";
+"parcingProcessedLinks" = "完成 %d 分之 %d 的连接";
+
+// DemoReminder window
+"demoreminderWindowTitle" = "试用期结束";
+"demoreminderCountFreeInfo" = "你已经使用免费版下载了%d个视频 .";
+"demoreminderActivationMessage" = "为继续下载视频和音乐，请激活Streamup";
+
+// OfferReminder window
+"offerreminderWindowTitle" = "回到免费版";
+"offerreminderCountFreeInfo" = "你还有%d 分之 %d 次免费下载";
+"offerreminderActivationMessage" = "当您选择一个重大更新之后，Streamup已经退回为演示版（Demo）。作为2.x专业版的付费用户，您可以享受半价升级。\n\n要继续下载YouTube视频、抓取MP3音轨和使用其他酷炫功能，您需要激活Streamup PRO（专业版）。";
+
+// buttons for windows of reminders
+"btnReminderKeepFreeTitle" = "继续使用免费版";
+"btnReminderActivateTitle" = "激活";
+"btnReminderBuyNowTitle" = "现在购买";
+
+// --- Differnt alerts ---
+// activation window
+"alertWrongActivationMessage" = "激活无法完成";
+"alertWrongActivationInfo" = "请确保你已正确输入激活码，为避免出错，请复制.";
+"alertSuccessfullActivationMessage" = "激活成功";
+"alertSuccessfullActivationInfo" = "感谢你购买Streamup,现在请享受他的强大.";
+
+// reactivation
+"alertReactivateMessage" = "激活失败";
+"alertReactivateInfo" = "重新激活失败，将回到免费版 ，请确保电脑时间设置正确，网络连接正常";
+
+// terminate app
+"alertTerminateMessage" = "退出Streamup";
+"alertTerminateDownloadInfo" = "当前有%d 个下载,%d 个暂停任务。.\n下次启动时将会恢复下载.";
+"alertTerminateParsingInfo" = "当前有正在解析的播放列表或频道，您想要中断并退出吗？";
+
+//error 404
+"alertError404Message" = "这个视频无法下载";
+"alertError404Info" = "请求的资源 %@ 无效. 请稍后重试.";
+
+// alert if the video is the part of playlist
+"alertVideoPartPlaylistMessage" = "这个视频是播放列表的一部分";
+"alertVideoPartPlaylistInfo" = "仅下载这个视频还是整个列表?";
+"btnRememberChoiceTitle" = "记住我的选择";
+"btnDownloadVideoTitle" = "下载视频";
+"btnDownloadPlaylistTitle" = "下载播放列表";
+
+// video already downloading
+"alertVideoIsLoadingMessage" = "相同类型和清晰度的视频正在下载或已在队列中";
+"alertVideoIsLoadingInfo" = "如果你想下载同样的视频，请等待当前视频下载完成";
+
+// canceling downloads
+"alertCancelDonloadMessage" = "取消下载 \"%@\"?";
+"alertCancelDowloadInfo" = "取消下载后只能重新下载.";
+
+// file(s) does not exists
+"alertNotExistInFinderMessage" = "文件不存在";
+"alertNotExistInFinderInfo" = "或许你把它删除了或者移到了别的文件夹，把它从下载列表中删除？";
+
+"alertNotExistMessage" = "文件不存在";
+"alertNotExistInfo" = "或许你把它删除了或者移到了别的文件夹.";
+
+// connection failed
+"alertInfoFailConnection" = "一个或多个来源的视频当前无法下载";
+"alertInfoConnectionLost" = "要恢复被打断的下载吗?";
+
+// free space on the disk
+"alertFreeSpaceMessage" = "磁盘空间不足";
+"alertFreeSpaceInfo" = "无足够空间，释放一些后再试.";
+
+// device not configured
+"alertNoDeviceMessage" = "找不到设备";
+"alertNoDeviceInfo" = "请确保保存视频的设备连接电脑正常后再试.";
+
+// path not exists
+"alertPathNotExistsMessage" = "无法保存到外部磁盘";
+"alertPathNotExistsInfo" = "请确保该路径存在";
+
+// clear download list
+"alertClearDownloadListMessage" = "清除下载列表";
+"alertClearDownloadListInfo" = "确定从列表中移除下载的文件?";
+"alertClearDownloadListOneActiveInfo" = "当前有 %ld 个下载. 清除后无法恢复.";
+"alertClearDownloadListFewActiveInfo" = "当前有 %ld 个下载. 清除列表后无法恢复.";
+
+// not available links
+"alertMessageLinksNotAvailable" = "某些链接现在无效了";
+"alertInfoLinksNotAvailable" = "我们处理了链接，但因为某种原因视频无法下载。.";
+"alertInfoLinksNotAvailable2" = "我们处理了链接，但因为某种原因视频无法下载，跳过了 %d 分之 %d 的链接.";
+
+// login in Youtube
+"alertLoginYoutubeMessage" = "登录YouTube账户";
+"alertLoginYoutubeInfo" = "为了下载年龄限制和私人视频，您需要登录您的YouTube账户。";
+"alertLoginYoutubeExpiredInfo" = "您的YouTube会话已经超时，请退出后再次登录。";
+"alertLinksNotAvailableInfo3" = "我们处理了您的链接，但是由于多种原因，有些视频无法下载，Streamup不得不跳过 %d 个 （共 %d 个）链接。为了提高下载速度，建议登录您的YouTube账户。";
+"btnLoginTitle" = "登录";
+"btnLogoutTitle" = "退出";
+
+// Other
+"lblInvitationText" = "当您输入URL之后点击";
+
+"lblAvailableDowloadsText" = "还有 %d 次免费下载";
+
+// current state for items
+"txtStateSuspended" = "下载暂停";
+"txtStateSuspendedConvert" = "转换已暂停";
+"txtStateResumedAndQueued" = "恢复和队列";
+"txtStateErrorWhenConverting" = "转换错误";
+"txtStateQueued" = "下载队列...";
+"txtStateSoundExtracting" = "提取声音,请稍后 ( %.1f %% )...";
+"txtStateAddingCover" = "正在添加. 请稍后 ( %.1f %% )...";
+"txtStateVideoConverted" = "转换视频 请稍后 ( %.1f %% )...";
+"txtStateUpdateLinks" = "稍等，正在解析下载地址";
+"txtStateSizeCalculation" = "正在获取文件大小...";
+
+// status bar text
+"txtActiveDowloads" = "开始 %d";
+"txtSuspendDowloads" = "暂停 %d";
+"txtActiveSuspendDowloads" = "开始 %d, 暂停 %d";
+"txtActiveQueuedDowloads" = "开始 %d, 队列 %d";
+"txtSuspendedQueuedDowloads" = "暂停 %d, 队列 %d";
+"txtActiveSuspendQueuedDowloads" = "开始 %d, 暂停 %d, 队列 %d";
+
+// tooltips and context menu (TCM)
+"tcmSuspendDownloadText" = "暂停下载";
+"tcmResumeDownloadText" = "恢复下载";
+"tcmShowInFinderText" = "在Finder中显示";
+"tcmCancelDownloadText" = "取消下载";
+"tcmRemoveFromListText" = "从列表中移除";
+"tcmOpenPageOriginText" = "打开来源页";
+
+// button format/resolution
+"itemMaxQuality" = "最佳";
+
+//Alert about copyright compliance of third party
+"btnDeclineTitle" = "Decline";
+"btnAgreeTitle" = "I agree";
+"alertMessageCopyrightCompliance" = "A very important notice";
+"alertInfoCopyrightCompliance" = "Streamup is the app to back up your own media content for offline viewing and storing. If you are planning to back up someone else's content, please, be aware, as a user, you are completely responsible for any potential copyright issues.";
