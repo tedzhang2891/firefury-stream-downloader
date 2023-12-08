@@ -241,4 +241,4 @@ Here’s how to submit a pull request:
 
 ### Support or Contact
 
-Having trouble with Pages? Check out project [wiki](https://bitbucket.org/tedzhang2891/injectorhelper/wiki/Home) or contact me via email (tedzhang2891@126.com) and I’ll help you sort it out.
+Having trouble with Pages? Check out project [wiki](https://bitbucket.org/tedzhang2891/injectorhelper/wiki/Home) or contact me via email (tedzhang2891@gmail.com) and I’ll help you sort it out.
